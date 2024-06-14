@@ -2,7 +2,7 @@
 
 🔍 Exploring the World of Data Science
 💡 Passionate about uncovering insights and making data-driven decisions.
-📊 Skilled in Python, R, SQL, and Machine Learning.
+📊 Skilled in Python, SQL, and Machine Learning.
 🚀 Constantly learning and experimenting with new data science techniques and tools.
 
 🧠 Key Interests
