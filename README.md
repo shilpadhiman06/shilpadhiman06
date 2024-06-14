@@ -7,10 +7,17 @@
 
 🧠 Key Interests
 
-Data Analysis & Visualization
-Machine Learning & AI
-SQL Database
-Statistical Modeling
+- Data Analysis & Visualization
+
+- Machine Learning & AI
+
+- Excel for Data Analysis
+
+- Visualisation Tools - PowerBi,Tableau
+
+- SQL Database
+
+- Statistical Modeling
 
 
 📚 Recent Projects
@@ -20,7 +27,7 @@ Statistical Modeling
 - Netflix Movies and TV Shows Clustering: Grouping content based on genres, ratings, and other attributes for better content discovery.
 - Web Scrapping on just watch platform using beautifulSoup to scrape the data.
 - Created a dashboard on superstore sales using powerBi showing monthly profit YoY,Sum of sales,different modes of pyayment etc.
-- Created avisually appealing dashboard on HR data using powerBi showing the job levels , promotion status ,Number of employees ,Service years etc.
+- Created a visually appealing dashboard on HR data using powerBi showing the job levels , promotion status ,Number of employees ,Service years etc.
 
   
 🌐 Connect with Me
