@@ -42,7 +42,7 @@ LinkedIn - linkedin.com/in/shilpa-dhiman-146378228
 
 Twitter - @shilpaDhiman19
 
-instagram - shilpadhiman0612
+instagram - shilpa_dhiman06
 
 🌱 Always learning, always growing.
 Let's transform data into actionable insights together!
